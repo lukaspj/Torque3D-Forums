@@ -1,0 +1,37 @@
+@import url("../../torque3d/theme/stylesheet.css");
+
+.panel-default>div:first-child a {
+    color: white;
+}
+.panel-default>div:first-child a:hover {
+    color: rgb(239, 239, 239);
+}
+
+.panel-default>.panel-heading, .panel-default>div:first-child {
+    background-color: #aa0000;
+    /*background: linear-gradient(to bottom, #aa0000 0%,#660000 100%);*/
+    color: white !important;
+}
+
+.panel-title {
+    color: white !important;
+}
+
+#logo {
+    height: 89px;
+    margin-top: 5px;
+}
+
+.navbar-default {
+    background-color: white !important;
+}
+
+.navbar {
+    border-radius: 0 !important;
+}
+
+#nav-breadcrumbs {
+    border: 1px solid #e7e7e7;
+    background-color: white;
+    border-radius: 0;
+}

@@ -1,0 +1,19 @@
+@import url("../../torque3d-red/theme/stylesheet.css");
+
+.top-bar {
+    margin-bottom: 30px;
+    background: rgb(249, 249, 249) url("../../torque3d/theme/images/site_logo.png") no-repeat 30px 10px;
+    background-size: 150px;
+}
+
+div.page-header {
+    display: none;
+}
+
+h1.site-name {
+    display: none;
+}
+
+#logo {
+    display: none;
+}

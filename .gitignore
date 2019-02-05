@@ -1,0 +1,13 @@
+config.php
+cache/*
+!cache/.htaccess
+!cache/index.htm
+files/*
+!files/.htaccess
+!files/plupload
+!files/index.htm
+images/avatars/upload/*
+!images/avatars/upload/.htaccess
+!images/avatars/upload/index.htm
+
+XAMPP/
