@@ -1,0 +1,49 @@
+@import url("../../torque3d-red/theme/stylesheet.css");
+
+.top-bar {
+    margin-bottom: 30px;
+    background: rgb(249, 249, 249) url("../../torque3d/theme/images/site_logo.png") no-repeat 30px 10px;
+    background-size: 150px;
+}
+
+div.page-header {
+    display: none;
+}
+
+h1.site-name {
+    display: none;
+}
+
+#logo {
+    display: none;
+}
+
+div.panel {
+    margin-bottom: 5px;
+    font-size: 1.2rem;
+}
+
+.panel h4 {
+    font-size: 1.5rem;
+}
+
+.panel h5 {
+    font-size: 1.3rem;
+}
+
+.panel h4, .panel h5, .panel h6 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.panel .panel-heading {
+    padding: 1px 15px;
+}
+
+div.post.panel-body {
+    padding: 15px 0 0;
+}
+
+div.panel-footer {
+    padding: 1px 15px;
+}

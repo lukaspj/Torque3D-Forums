@@ -1,0 +1,95 @@
+@import url("../../torque3d-red-minimal/theme/stylesheet.css");
+
+body {
+    color: #d0d0d0 !important;
+    background-color: #212121 !important;
+}
+
+.top-bar {
+    background-size: 150px;
+    background: rgb(179, 39, 39) url("./images/Torque-3D-logo-w.png") no-repeat 10px 0;
+}
+
+.bg1 {
+    background-color: #424242;
+}
+
+.bg2 {
+    background-color: #525252;
+}
+
+
+div.navbar.navbar-default, #nav-breadcrumbs, .panel>.panel-body, .well, #page-footer {
+    background-color: #2b2b2b !important;
+    border-color: #929292;
+}
+
+.pages .btn.btn-default {
+    background-color: #2b2b2b !important;
+}
+
+.pages .btn.btn-default.disabled {
+    background-color: #fff !important;
+    color: #000 !important;
+}
+
+.pagination>li>a {
+    background-color: #2b2b2b !important;
+}
+
+.pagination>li.active>span {
+    background-color: #b73333 !important;
+    border-color: #b73333 !important;
+}
+
+.panel-title, div.panel-primary>.panel-heading, div.panel-default>.panel-heading, .btn.btn-primary, .btn.btn-default {
+    color: #fff !important;
+    background-color: #b73333;
+    border-color: #a42e2e;
+}
+
+.panel-footer {
+    background-color: #653434 !important;
+}
+
+#message-box, #subject, #message {
+    background-color: #444;
+    color: #fff;
+}
+
+.btn.btn-primary:hover, .btn.btn-default:hover {
+    background-color: #cc1f1f;
+    color: #fff;
+}
+
+.btn.btn-primary>i.fa, select, input.btn {
+    background-color: #9c2b2b;
+    color: #fff;
+}
+
+#search_keywords {
+    background-color: #9c2b2b;
+    color: #fff;
+    border-color: #b73333;
+}
+
+input.btn:hover {
+    background-color: #cc1f1f;
+    color: #fff;
+}
+
+div.panel {
+    border-color: #929292;
+}
+
+a {
+    color: #ff8c68 !important;
+}
+
+a>.fa {
+    color: #fff;
+}
+
+.panel>div>h4>a {
+    color: #fff !important;
+}
