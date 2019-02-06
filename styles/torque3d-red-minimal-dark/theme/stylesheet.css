@@ -18,6 +18,9 @@ body {
     background-color: #525252;
 }
 
+.panel .bg-info {
+    background-color: #633333;
+}
 
 div.navbar.navbar-default, #nav-breadcrumbs, .panel>.panel-body, .well, #page-footer {
     background-color: #2b2b2b !important;
